@@ -1,1 +1,7 @@
-[![Report](https://github.com/bigbrainzelie/Linear-Logistic-Regression/blob/main/writeup.pdf)](https://wordpress.org/support/view/plugin-reviews/dirtysuds-embed-pdf)
+![page1]([http://url/to/img.png](https://github.com/antoinedang/Linear-Logistic-Regression/blob/main/writeup-1.png))
+![page1]([http://url/to/img.png](https://github.com/antoinedang/Linear-Logistic-Regression/blob/main/writeup-2.png))
+![page1]([http://url/to/img.png](https://github.com/antoinedang/Linear-Logistic-Regression/blob/main/writeup-3.png))
+![page1]([http://url/to/img.png](https://github.com/antoinedang/Linear-Logistic-Regression/blob/main/writeup-4.png))
+![page1]([http://url/to/img.png](https://github.com/antoinedang/Linear-Logistic-Regression/blob/main/writeup-5.png))
+![page1]([http://url/to/img.png](https://github.com/antoinedang/Linear-Logistic-Regression/blob/main/writeup-6.png))
+![page1]([http://url/to/img.png](https://github.com/antoinedang/Linear-Logistic-Regression/blob/main/writeup-7.png))
